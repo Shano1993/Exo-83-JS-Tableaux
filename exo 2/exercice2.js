@@ -1,7 +1,7 @@
-let prenoms = ["pierre","paul","jacques"];
-    = "<Ton Prénom>";
+let prenoms = ["Stefan","paul","jacques"];
+let name = prenoms[0];
 
-document.getElementById('viewport'). = ;
+document.getElementById('viewport').innerHTML = name ;
 
 
 
